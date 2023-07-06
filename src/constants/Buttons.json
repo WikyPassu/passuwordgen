@@ -1,0 +1,17 @@
+[
+  {
+    "icon" :"bx bx-rotate-left",
+    "animated": true,
+    "animation": "rotate"
+  },
+  {
+    "icon" :"bx bx-shuffle",
+    "animated": true,
+    "animation": "spin"
+  },
+  {
+    "icon" :"bx bx-copy",
+    "animated": false,
+    "animation": ""
+  }
+]
